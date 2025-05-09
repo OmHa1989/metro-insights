@@ -29,3 +29,9 @@ Each learning‑sprint day becomes a milestone; issues represent tasks.
 1. Clone the repo:  
    ```bash
    git clone https://github.com/OmHa1989/metro-insights.git
+
+2. Create a Python virtual environment and install dependencies (to be listed later in requirements.txt).
+
+3. Follow the /docs folder for data‑dictionary and design docs.
+
+© 2025 Omid Hashemi · MIT License (to be added)
