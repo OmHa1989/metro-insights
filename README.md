@@ -26,12 +26,13 @@ We'll track tasks on the **“Metro Insights Sprint Board”** (GitHub Projects
 Each learning‑sprint day becomes a milestone; issues represent tasks.
 
 ## Getting Started
-1. Clone the repo:  
+1. Clone the repo:
+   git clone 
    ```bash
-   git clone https://github.com/OmHa1989/metro-insights.git
+   https://github.com/OmHa1989/metro-insights.git
 
-2. Create a Python virtual environment and install dependencies (to be listed later in requirements.txt).
+3. Create a Python virtual environment and install dependencies (to be listed later in requirements.txt).
 
-3. Follow the /docs folder for data‑dictionary and design docs.
+4. Follow the /docs folder for data‑dictionary and design docs.
 
 © 2025 Omid Hashemi · MIT License (to be added)
